@@ -8,7 +8,7 @@
       <div class="container">
           <div class="header-inner">
               <div class="header-inner__logo">
-                  <img src="@/assets/sun.png" alt="logo">
+                  <img src="@/assets/images/icons/sun.png" alt="logo">
                   <p>Weather app</p>
               </div>
               <nav class="header-inner__navBar">
